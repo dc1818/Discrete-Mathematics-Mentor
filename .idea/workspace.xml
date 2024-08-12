@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bf0f3d7c-de50-43a5-8aab-b34744595c0e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/react/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react/server.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react/src/assets/UploadTextbook.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/react/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/react/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +92,7 @@
       <workItem from="1723491402437" duration="1268000" />
       <workItem from="1723492690457" duration="242000" />
       <workItem from="1723493006481" duration="368000" />
-      <workItem from="1723493392744" duration="1225000" />
+      <workItem from="1723493392744" duration="1870000" />
     </task>
     <servers />
   </component>
