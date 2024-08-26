@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "prettier": "3.3.3"
+  },
+  "dependencies": {
+    "@heroicons/react": "^2.1.5"
+  }
+}
